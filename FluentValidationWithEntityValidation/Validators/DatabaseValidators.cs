@@ -40,7 +40,7 @@ public static class DatabaseValidators {
     }
     
     public static IRuleBuilderOptions<T, TElement> IsForeignKey<T, TElement, TEntity>(this IRuleBuilder<T, TElement> ruleBuilder,
-        IQueryable query, string propertyName="Id") where TEntity:class
+        IQueryable<TEntity> query, string propertyName="Id") where TEntity:class
     {
         // var parameter = Expression.Parameter(typeof(MyClass));
        

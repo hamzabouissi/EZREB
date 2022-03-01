@@ -5,13 +5,18 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <Authors>hamza bou issa (forswearbeetle)</Authors>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <Description>tired of validating your entity constraint manually ?
 this package integrate  ef core entities with your desired DTO(s) so you can have built-in checking features like(foreignKey,unique,maxLength,required) </Description>
-        <Copyright>MIT</Copyright>
+        <Copyright></Copyright>
         <PackageTags>ef core, fluentValidation,model-checking,entity</PackageTags>
+        <RepositoryUrl>https://github.com/hamzabouissi/EZREB</RepositoryUrl>
+        <RepositoryType>public</RepositoryType>
+        <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
     </PropertyGroup>
 
     <ItemGroup>
+      <None Include="licenses\LICENSE.txt" Pack="true" PackagePath="LICENSE.txt"/>
       <PackageReference Include="coverlet.collector" Version="3.1.2">
         <PrivateAssets>all</PrivateAssets>
         <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
