@@ -32,6 +32,8 @@
 
 **Available On Nuget Packages**
 
+https://www.nuget.org/packages/FluentValidationWithEntityValidation/1.0.0
+
 
 ## Features
 
@@ -46,9 +48,9 @@ A few of the things you can do with <b>EZREB</b>:
 
 ## Feedback
 
-Feel free to send us feedback on [Linkedin](https://twitter.com/gitpointapp) or [file an issue](https://github.com/hamzabouissi/EZREBissues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
+Feel free to send us feedback on [Linkedin](https://www.linkedin.com/in/hamza-b-aa9377106/) or [file an issue](https://github.com/hamzabouissi/EZREBissues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
 
-If there's anything you'd like to chat about, please feel free to send a message on my email  [Email](bouissihamza6@gmail.com)!
+If there's anything you'd like to chat about, please feel free to send a message on my email  [Email](mailto:bouissihamza6@gmail.com)
 
 ## Contributors
 
